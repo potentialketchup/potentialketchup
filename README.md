@@ -1,7 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Emily! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Project Placeholder #1 </b>
+  - Cybersecurity related project goes here
+  - Maybe a link or two
+    
+- <b>Project Placeholder #2 </b>
+  - Another project related to cybersecurity
+    
+- <b>Project Placeholder #3)</b>
+  - Project details and links
+
+<h2> 🤳 Connect with me on Linkedin:</h2>
+
+https://www.linkedin.com/in/emily-z-74807512b
+
+
 
 <!--
-**potentialketchup/potentialketchup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
